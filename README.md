@@ -1,0 +1,2 @@
+# ESP-32-TEMP-HUM
+ESP 32 WITH DHT 22, HTML, AND LCD I2C  WITH ARDUINO IDE (COPY TO C:\Users\{YOUR PC NAME)\Documents\Arduino\libraries  )
